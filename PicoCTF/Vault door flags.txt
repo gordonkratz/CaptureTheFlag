@@ -1,0 +1,5 @@
+vault 0 : w4rm1ng_Up_w1tH_jAv4_eec0716b713
+vault 1 : d35cr4mbl3_tH3_cH4r4cT3r5_ff63b0
+vault 3: jU5t_a_s1mpl3_an4gr4m_4_u_1fb380
+4: jU5t_4_bUnCh_0f_bYt3s_c194f7458e
+5: picoCTF{c0nv3rt1ng_fr0m_ba5e_64_0b957c4f}

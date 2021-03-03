@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>98a0648e-799f-4ff4-977b-063d68d6413b</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>VaultDoor7.py</StartupFile>
+    <StartupFile>ceasarShift.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,11 +21,17 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="ceasarShift.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="VaultDoor5.py" />
     <Compile Include="VaultDoor6.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="VaultDoor7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="VaultDoor8.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
